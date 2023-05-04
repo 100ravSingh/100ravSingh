@@ -7,7 +7,7 @@
 <img src="https://gpvc.arturio.dev/100ravSingh">
 </p>
 <h3 align="center">A civil engineer graduate but software developer</h3>
-<h2 align="center"><u>Personal Details</u></h2>
+<h2 align="center"><u>About Me</u></h2>
 <p align="center">
 
  - I am a programmer learner on situation requirements but stick to C, C++, Python, HTML, COBOL, JCL, SQL.
