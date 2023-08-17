@@ -4,7 +4,7 @@
    <img src="https://img.shields.io/badge/-PORTFOLIO-black?logo=dialogflow&style=for-the-badge">
 </a>
 <br>
-<img src="https://gpvc.arturio.dev/100ravSingh">
+<img src="https://komarev.com/ghpvc/?username=100ravsingh&color=blue">
 </p>
 <h3 align="center">A civil engineer graduate but software developer</h3>
 <h2 align="center"><u>About Me</u></h2>
