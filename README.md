@@ -1,6 +1,6 @@
 <h1 align="center">Hi visitor, I'm Sourav!</h1>
 <p align="center">
-<a href="https://100ravsingh.github.io/Sourav/" target="_blank">
+<a href="https://100ravsingh.github.io/" target="_blank">
    <img src="https://img.shields.io/badge/-PORTFOLIO-black?logo=dialogflow&style=for-the-badge">
 </a>
 <br>
