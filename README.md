@@ -14,6 +14,6 @@
  
  - I do my projects on Machine learning, Artificial Intelligence and Cloud Technology.
    
- - Currently working at *Cognizant Technology Solutions India Private Limited.*   
+ - Currently working at *Accenture India Private Limited* and Ex *Accenture India Private Limited.*
 
 </p>
