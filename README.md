@@ -6,7 +6,7 @@
 <br>
 <img src="https://komarev.com/ghpvc/?username=100ravsingh&color=blue">
 </p>
-<h3 align="center"><I>A Civil Engineer graduate but Software Developer by profession.</I></h3>
+<h3 align="center"><I>A Civil Engineering graduate turned Software Developer by profession.</I></h3>
 <h2 align="center"><u>About Me</u></h2>
 <p align="center">
 
