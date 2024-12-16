@@ -10,10 +10,10 @@
 <h2 align="center"><u>About Me</u></h2>
 <p align="center">
 
- - I am a programmer learner on situation requirements but stick to C, C++, Python, HTML, COBOL, JCL, SQL.
+ - I am a programmer who adapts to situational requirements but primarily specializes in C, C++, Python, HTML, COBOL, JCL, and SQL.
  
- - I do my projects on Machine learning, Artificial Intelligence and Cloud Technology.
+ - I work on projects focused on Machine Learning, Artificial Intelligence, and Cloud Technology.
    
- - Currently working at *Accenture India Private Limited* and Ex *Accenture India Private Limited.*
+ - Currently, I am employed at *Accenture India Private Limited* and previously worked at *Cognizant Technology Solutions India Private Limited.*
 
 </p>
