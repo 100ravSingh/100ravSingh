@@ -26,9 +26,17 @@
 <h2 align="center">🌟 <u>Let's Connect!</u> 🌟</h2>
 
 <p align="center">
-  <a href="https://100ravsingh.github.io/" target="_blank">🌐 Portfolio</a> |
-  <a href="https://www.linkedin.com/in/sourav-singh-574a82160/" target="_blank">LinkedIn</a> |
-  <a href="mailto:ss3225220@gmail.com">Email</a>
+  <a href="https://100ravsingh.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-100ravsingh.github.io-blue?logo=google-chrome&logoColor=white&style=for-the-badge" alt="Portfolio">
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/sourav-singh-574a82160/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
+  </a>
+  &nbsp;
+  <a href="mailto:ss3225220@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Email">
+  </a>
 </p>
 
 ---
