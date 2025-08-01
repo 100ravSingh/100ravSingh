@@ -16,8 +16,8 @@
 <p align="center">
   🚀 <b>Versatile Programmer:</b> Adaptable to various requirements, with core expertise in <b>C, C++, Python, HTML, COBOL, JCL, and SQL</b>.<br>
   💻 <b>Tech Enthusiast:</b> I enjoy building projects in <b>Machine Learning, Artificial Intelligence, and Cloud Technology</b>.<br>
-  🏢 <b>Current Role:</b> Software Developer at <i>Accenture India Private Limited</i>.<br>
-  💼 <b>Previous Experience:</b> Formerly at <i>Cognizant Technology Solutions India Private Limited</i>.<br>
+  🏢 <b>Current Role:</b> Senior Analyst at <i>Accenture India Private Limited</i>.<br>
+  💼 <b>Previous Experience:</b> Software Developer at <i>Cognizant Technology Solutions India Private Limited</i>.<br>
   🌱 <b>Lifelong Learner:</b> Always exploring innovative tech and expanding my skill set.<br>
 </p>
 
@@ -27,7 +27,7 @@
 
 <p align="center">
   <a href="https://100ravsingh.github.io/" target="_blank">🌐 Portfolio</a> |
-  <a href="[https://www.linkedin.com/in/sourav-singh-574a82160/" target="_blank">LinkedIn</a> |
+  <a href="https://www.linkedin.com/in/sourav-singh-574a82160/" target="_blank">LinkedIn</a> |
   <a href="mailto:ss3225220@gmail.com">Email</a>
 </p>
 
