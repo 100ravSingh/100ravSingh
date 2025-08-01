@@ -27,7 +27,7 @@
 
 <p align="center">
   <a href="https://100ravsingh.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-100ravsingh.github.io-blue?logo=google-chrome&logoColor=white&style=for-the-badge" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-visit-blue?logo=google-chrome&logoColor=white&style=for-the-badge" alt="Portfolio">
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/sourav-singh-574a82160/" target="_blank">
