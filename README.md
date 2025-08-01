@@ -14,7 +14,7 @@
 <h2 align="center"><u>About Me</u></h2>
 
 <p align="center">
-  🚀 <b>Versatile Programmer:</b> Adaptable to various requirements, with core expertise in <b>C, C++, Python, HTML, COBOL, JCL, and SQL</b>.<br>
+  🚀 <b>Versatile Programmer:</b> Adaptable to various requirements, with core expertise in <b>C, C++, Python, Pyspark, COBOL, JCL, and SQL</b>.<br>
   💻 <b>Tech Enthusiast:</b> I enjoy building projects in <b>Machine Learning, Artificial Intelligence, and Cloud Technology</b>.<br>
   🏢 <b>Current Role:</b> Senior Analyst at <i>Accenture India Private Limited</i>.<br>
   💼 <b>Previous Experience:</b> Software Developer at <i>Cognizant Technology Solutions India Private Limited</i>.<br>
